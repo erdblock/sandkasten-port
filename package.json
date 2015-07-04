@@ -1,0 +1,10 @@
+{
+	"name": "sandkasten-port",
+	"version": "0.2.5",
+	"private": true,
+	"dependencies": {
+		"is_js": "x",
+		"server-destroy": "x"
+	},
+	"main": "index.js"
+}
